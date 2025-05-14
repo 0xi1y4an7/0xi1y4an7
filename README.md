@@ -32,7 +32,7 @@ A decentralized platform enabling users to stake tokens and earn rewards. Built 
 
 ### 💼 Experience
 
-**Freelance Smart Contract Developer** (2023 – Present)  
+**Freelance Smart Contract Developer** (2020 – Present)  
 Delivering high-performance smart contracts with an emphasis on gas efficiency, security, and usability.
 
 ---
